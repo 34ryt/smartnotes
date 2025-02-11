@@ -1,3 +1,4 @@
-# SmartNotes++
-It's a special **note editor with titlles and hashtags**!
-> Use it!
+# Maze
+It's a maze-protyped game, in which **main character - Blue Ghost should catch chest**!
+Two enemies = **Green Ghosts Terminators**
+> Try complete >:)
